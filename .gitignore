@@ -1,1 +1,32 @@
 
+# Visual Studio
+.vs/
+.vscode/
+
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# SQL Server local database files
+*.mdf
+*.ldf
+
+# Access database - not allowed in submission
+*.mdb
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
