@@ -866,7 +866,8 @@ dbCompanyApp
 ```
 
 **Screenshot:**
-`[Insert screenshot here]`
+<img width="1920" height="1019" alt="Screenshot 2026-08-29 022233" src="https://github.com/user-attachments/assets/173a50ea-168e-4f53-b9a3-2202b8ff9e0e" />
+
 
 ---
 
@@ -874,12 +875,12 @@ dbCompanyApp
 
 Show the migrated Login/Register accounts inside:
 
-```text
+
 dbo.Users
-```
 
 **Screenshot:**
-`[Insert screenshot here]`
+<img width="1920" height="1019" alt="Screenshot 2026-08-29 022418" src="https://github.com/user-attachments/assets/47f83b4d-2923-4e0d-bb29-96e9af23e5fe" />
+
 
 ---
 
@@ -887,7 +888,7 @@ dbo.Users
 
 Show the project with the form files correctly associated/nested:
 
-```text
+
 frmLogin.cs
     ├── frmLogin.Designer.cs
     └── frmLogin.resx
@@ -899,10 +900,12 @@ frmRegister.cs
 frmDashboard.cs
     ├── frmDashboard.Designer.cs
     └── frmDashboard.resx
-```
+
 
 **Screenshot:**
-`[Insert screenshot here]`
+<img width="1920" height="1019" alt="Screenshot 2026-08-29 022733" src="https://github.com/user-attachments/assets/48370719-cdba-48e9-b47e-d0dd8f6f6ecb" />
+
+
 
 ---
 
@@ -910,14 +913,14 @@ frmDashboard.cs
 
 Show the working application flow:
 
-```text
+
 Login
   ↓
 Dashboard
-```
+
 
 **Screenshot:**
-`[Insert screenshot here]`
+<img width="428" height="720" alt="Screenshot 2026-08-29 022857" src="https://github.com/user-attachments/assets/a30aa9a6-0021-4e76-8530-fa66b7aeb11f" />
 
 ---
 
@@ -926,7 +929,8 @@ Dashboard
 Show the Employee management screen with working CRUD functionality.
 
 **Screenshot:**
-`[Insert screenshot here]`
+<img width="1920" height="1019" alt="Screenshot 2026-08-29 022914" src="https://github.com/user-attachments/assets/f13ae794-6cb5-4304-9cc6-c2273e9d5d92" />
+
 
 ---
 
@@ -936,14 +940,15 @@ Show the Employee grid displaying the creator through the `CreatedBy` relationsh
 
 Example:
 
-```text
+
 EmpId | EmpName | EmpAge | ... | CreatedBy
 ------------------------------------------------
 E001  | ...     | ...    | ... | admin
-```
+
 
 **Screenshot:**
-`[Insert screenshot here]`
+<img width="1920" height="1019" alt="Screenshot 2026-08-29 023023" src="https://github.com/user-attachments/assets/abeb2434-f575-4a33-871a-0b98fceb3d5e" />
+
 
 ---
 
@@ -952,7 +957,11 @@ E001  | ...     | ...    | ... | admin
 Show that selecting Logout returns the user to a new Login screen rather than terminating the application unexpectedly.
 
 **Screenshot:**
-`[Insert screenshot here]`
+<img width="1920" height="1019" alt="Screenshot 2026-08-29 040922" src="https://github.com/user-attachments/assets/3914325d-6401-46da-ba9e-e71a1c6d8d72" />
+
+<img width="428" height="720" alt="image" src="https://github.com/user-attachments/assets/f29d017d-d9cf-4ce1-8385-e6d76f351bfc" />
+
+
 
 ---
 
